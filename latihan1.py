@@ -1,7 +1,7 @@
-n = int(input("Masukkan nilai N:"))
-from random import random
-a = random()
-jumlah = n
+n=int(input("Masukan nilai N :"))
+import random
+jumlah=n
 for i in range(jumlah):
-  print("data ke:", i,(a))
-print("Selesai")
+    data=random.uniform(0,0.5)
+    i+=1
+    print("Data ke:",i,"==>",(data))
