@@ -16,6 +16,11 @@ contoh :
 
 ![126](https://user-images.githubusercontent.com/57003140/68372235-0bdb2700-0173-11ea-8447-f9d492a97f90.png)
 
+Flowchart algortma latihan2
+
+![126](https://user-images.githubusercontent.com/57003140/68527963-c4de6480-031f-11ea-83e4-96f7b30f050e.png)
+
+
 
 
                        Penjelasan alur algoritma program1
