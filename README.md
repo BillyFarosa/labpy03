@@ -18,6 +18,9 @@ contoh :
 
 Flowchart algortma latihan2
 
+![126](https://user-images.githubusercontent.com/57003140/68538524-4c6fb600-03a8-11ea-9f42-6cc599ef1903.png)
+
+
 
 
 
